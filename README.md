@@ -1,7 +1,7 @@
 # Budget Tracker 📈
 This PWA application allow user to enter transactions to their budget with or without Internet connection, and it also provide a graph on the budget trend. 
 
-Deployed Link:
+Deployed Link: https://agile-fortress-96618.herokuapp.com/
 
 ## Description
 This application is a PWA, which can be install on the smart phone, and it also can be used when the user is online or offline.
